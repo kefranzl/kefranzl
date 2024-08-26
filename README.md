@@ -34,7 +34,6 @@ Durch mein Masterstudium, meine aktuelle Werkstudententätigkeit sowie eigene Pr
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Google%20AI%20Essentials-FF0000?style=for-the-badge&logo=google&logoColor=white" />
     <a href="https://bcert.me/bc/html/show-badge.html?b=oxxwlfkm" target="_blank">
     <img src="https://img.shields.io/badge/-Google%20AI%20Essentials-FF0000?style=for-the-badge&logo=google&logoColor=white" />
 </a>
