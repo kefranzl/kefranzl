@@ -34,11 +34,11 @@ Durch mein Masterstudium, meine aktuelle Werkstudententätigkeit sowie eigene Pr
 
 ## Certifications
 <div>
-    <a href="https://bcert.me/bc/html/show-badge.html?b=oxxwlfkm" target="_blank">
-    <img src="https://img.shields.io/badge/-Google%20AI%20Essentials-FF0000?style=for-the-badge&logo=google&logoColor=white" />
-</a>
-<a href="https://www.credly.com/badges/0aed012a-be6e-4457-a5c5-900f54e2d401/linked_in_profile">
-<img src="https://img.shields.io/badge/-Scrum%20Foundation-FF0000?style=for-the-badge&logo=scrum&logoColor=white" />
+    <a href="https://www.credly.com/badges/0aed012a-be6e-4457-a5c5-900f54e2d401/linked_in_profile" target="_blank">
+    <img src="https://img.shields.io/badge/-Google%20AI%20Essentials-FF0000?style=for-the-badge&logo=google&logoColor=white" /> </a>
+
+ <a href="https://bcert.me/bc/html/show-badge.html?b=oxxwlfkm">
+ <img src="https://img.shields.io/badge/-Scrum%20Foundation-FF0000?style=for-the-badge&logo=scrum&logoColor=white" /> </a>
 </div>
 
 ## Projects
