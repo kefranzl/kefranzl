@@ -9,7 +9,6 @@ Bereits während meines Bachelorstudiums entdecke ich mein großes Interesse an 
 Durch mein Masterstudium, meine aktuelle Werkstudententätigkeit sowie eigene Projekte kann ich mein theoretisches und praktisches Wissen im Bereich Cybersicherheit weiter ausbauen. Mein Ziel ist es, meine Zukunft in der Cybersecurits bestmöglich vorzubereiten.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
