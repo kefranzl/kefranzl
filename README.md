@@ -1,4 +1,4 @@
-# Hallo, i´m Kevin
+# Kevin Franzl
 <a href="https://www.linkedin.com/in/kevin-franzl-b89978125/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Ich studiere "Advanced IT Security" im Master und sammle praktische Erfahrung als Werkstudent im Bereich OT Security bei einem führenden Energieversorger. 
