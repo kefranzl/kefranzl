@@ -1,12 +1,12 @@
 # Hallo, i´m Kevin
 <a href="https://www.linkedin.com/in/kevin-franzl-b89978125/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Ich studiere "Advanced IT Security" im Master und sammle praktische Erfahrung als Werkstudent im Bereich OT Security bei einem führenden Energieversorger. Hier dokumentiere ich meine Fähigkeiten und Projekte, um meine Zukunft in der Cybersecurity vorzubereiten.
+Ich studiere "Advanced IT Security" im Master und sammle praktische Erfahrung als Werkstudent im Bereich OT Security bei einem führenden Energieversorger. 
 
 ## Zielsetzung
 
 Bereits während meines Bachelorstudiums entdecke ich mein großes Interesse an der Cybersicherheit.
-Durch mein Masterstudium, meine aktuelle Werkstudententätigkeit sowie eigene Projekte kann ich mein theoretisches und praktischen Wissen im Bereich Cybersicherheit weiter ausbauen. 
+Durch mein Masterstudium, meine aktuelle Werkstudententätigkeit sowie eigene Projekte kann ich mein theoretisches und praktischen Wissen im Bereich Cybersicherheit weiter ausbauen. Mein Ziel ist es so, meine Zukunft in der Cybersecurits bestmöglich vorzubereiten.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
